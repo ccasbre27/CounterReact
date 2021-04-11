@@ -10,5 +10,5 @@ I am using different items of Angular for example:
 
 ## Screenshots
 
-Home page: loading
+Home page
 ![](path/home.png?raw=true)
